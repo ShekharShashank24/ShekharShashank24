@@ -1,16 +1,16 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║      ░█████╗░░█████╗░███╗░░░███╗██╗██████╗░              ║
-║      ██╔══██╗██╔══██╗████╗░████║██║██╔══██╗             ║
-║      ███████║███████║██╔████╔██║██║██████╔╝             ║
-║      ██╔══██║██╔══██║██║╚██╔╝██║██║██╔══██╗             ║
-║      ██║  ██║██║  ██║██║░╚═╝░██║██║██║  ██║             ║
-║      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝             ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════╗
+║                                                                         ║
+║    ███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗   ║
+║    ██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝   ║
+║    ███████╗███████║███████║███████╗███████║███████║██╔██╗ ██║█████╔╝    ║
+║    ╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗    ║
+║    ███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗   ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ║
+║                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Aamir Arshad &nbsp;·&nbsp; Full-Stack & AI Engineer
@@ -28,23 +28,21 @@
 ## ⚡ About Me
 
 ```typescript
-const aamir = {
-  role       : "Full-Stack & AI Engineer @ Heart It Out",
-  focus      : ["Scalable Systems", "AI-Powered Workflows", "Developer Tooling"],
-  techStack  : {
-    languages  : ["TypeScript", "JavaScript", "Python", "Go"],
-    frontend   : ["Next.js", "React", "React Native", "Expo"],
-    backend    : ["Node.js", "Express", "FastAPI"],
-    ai         : ["LangChain", "LangGraph", "OpenAI", "Anthropic"],
-    infra      : ["AWS", "Vercel", "RabbitMQ", "OpenTelemetry"],
-    databases  : ["PostgreSQL", "Prisma"],
-  },
-  currentlyExploring : ["AI Engineering", "System Design", "Agent Workflows"],
-  openTo             : ["Impactful Products", "Developer Tools", "Open-Source"],
-};
+  $shashank = [
+      "role" => "Software Developer @ RiskBirbal Insurance Brokers",
+      "focus" => ["Scalable Systems", "AI-Powered Workflows", "Developer Tooling"],
+      "techStack" => [
+        "languages" => ["TypeScript", "JavaScript", "Python", "PHP"],
+        "frontend" => ["Next.js", "React", "React Native", "Expo"],
+        "backend" => ["Node.js", "Express", "FastAPI", "PHP Laravel", "CodeIgniter"],
+        "ai" => ["LangChain", "LangGraph", "OpenAI"],
+        "databases" => ["PostgreSQL", "MongoDB", "MySQL"],
+      ],
+      "currentlyExploring" => ["AI Engineering", "Agent Workflows"],
+      "openTo" => ["Impactful Products", "Developer Tools", "Open-Source"],
+  ];
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +50,7 @@ const aamir = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend & Mobile
@@ -67,6 +66,8 @@ const aamir = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP Laravel](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-283C4B?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### AI & Automation
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -74,7 +75,8 @@ const aamir = {
 
 ### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
