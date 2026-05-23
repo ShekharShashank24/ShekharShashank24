@@ -85,21 +85,6 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Aamirknight&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aamirknight&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=Aamirknight&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
 
 ## 🎯 2025 Focus Areas
 
