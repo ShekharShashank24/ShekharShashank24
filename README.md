@@ -13,7 +13,7 @@
 ╚═════════════════════════════════════════════════════════════════════════╝
 ```
 
-# Aamir Arshad &nbsp;·&nbsp; Full-Stack & AI Engineer
+# Shekhar Shashank &nbsp;·&nbsp; Software Developer
 
 *Building scalable products at the intersection of modern web and intelligent systems*
 
@@ -106,3 +106,5 @@
 *"Ship fast. Learn faster. Build with intent."*
 
 </div>
+
+
